@@ -28,6 +28,7 @@ output "endpoints" {
     "sts": "com.amazonaws.eu-central-1",
     "secretsmanager": "com.amazonaws.eu-central-1",
     "sts": "com.amazonaws.eu-central-1",
-    "ecs": "com.amazonaws.eu-central-1"
+    "ecs": "com.amazonaws.eu-central-1",
+    "sns": "com.amazonaws.eu-central-1"
   }
 }
