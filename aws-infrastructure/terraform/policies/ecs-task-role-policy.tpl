@@ -44,6 +44,13 @@ ${jsonencode(
       ],
       "Effect": "Allow",
       "Resource": "*"
+    },
+    {
+      "Action": [
+        "comprehend:DetectSentiment"
+      ],
+      "Effect": "Allow",
+      "Resource": "*"
     }
   ]
 }

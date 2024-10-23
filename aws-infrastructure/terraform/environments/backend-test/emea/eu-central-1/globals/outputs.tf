@@ -30,6 +30,7 @@ output "endpoints" {
     "sts": "com.amazonaws.eu-central-1",
     "ecs": "com.amazonaws.eu-central-1",
     "sns": "com.amazonaws.eu-central-1",
-    "translate": "com.amazonaws.eu-central-1"
+    "translate": "com.amazonaws.eu-central-1",
+    "comprehend": "com.amazonaws.eu-central-1"
   }
 }
